@@ -69,7 +69,6 @@ html body {
 /*------------Landing page image---------------*/
 
 .main-image {
-  background: url("../images/heroimage.jpg")no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
